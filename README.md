@@ -41,7 +41,7 @@ Footer: Simple footer text centered at the bottom.
 
 live at
 
-(Add a screenshot of your blog layout here for reference)
+( https://chanru-project.github.io/Boostrap-Layout/)
 
 
 ---
